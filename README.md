@@ -1,0 +1,1 @@
+It is an Flutter mobile application based Uber Clone project. Only the front end has been developed. The database is connected using Firebase Where the login otp has been manually initialized already for the test purpose. More stabilized updates will be added in future.
